@@ -36,7 +36,7 @@ Entendimento geral dos demais projetos e regra de negócio
 Esperamos que seja demonstrado como você lida com a construção de telas sem modelos de referência, e lidar com APIs de terceiros, como o Google, Mapbox ou similar.  
 Nese passo, será mandatório o uso do ReactJS. 
 
-Fornecemos na pasta XXX o manual da marca Senne Liquor, do qual mostra como usar as cores e logo. 
+Fornecemos no repositório o manual da marca Senne Liquor, do qual mostra como usar as cores e logo. 
 
 Esperamos inicialmente as seguintes telas  
 
