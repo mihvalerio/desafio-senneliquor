@@ -70,7 +70,9 @@ A intenção será visualizar os dados dos chamados que o médico vai realizar.
 
 ## Entregáveis
 
-Compartilhar o repositório no Github com o usuário https://github.com/senneliquor/. 
+Compartilhar o repositório no Github com o usuário https://github.com/senneliquor/.
+
+## Prazo de Entrega: 5 dias
 
 **Bônus: Entregar a estrutura pronta para publicação em container do backend / frontend.**
 
