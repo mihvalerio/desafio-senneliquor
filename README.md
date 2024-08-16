@@ -75,3 +75,7 @@ Compartilhar o repositório no Github com o usuário https://github.com/senneliq
 **Bônus: Entregar a estrutura pronta para publicação em container do backend / frontend.**
 
 **Bônus 2: Compartilhar projeto no https://expo.dev**
+
+Em caso de dúvida, escrever para gabriel.mariano@senneliquor.com.br
+
+**Boa sorte**
