@@ -1,0 +1,32 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Garantir que ocupe a tela toda */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f2f5; /* cor de fundo padrão */
+}
+
+/* Melhor visualização de links e botões */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+/* Centralizar conteúdo quando precisar (opcional) */
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
